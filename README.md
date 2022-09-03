@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mujont. Full name Jonathan Munoz
-- 👀 I’m interested in data analytics
+- 👀 I’m interested in data analytics and econometrics
 - 🌱 I’m currently learning python and polishing my sql knowledge
-- 💞️ I’m looking to collaborate on data analytics work
+- 💞️ I’m looking to collaborate on econometric or data analytics work
 - 📫 Reach me at jmunozastir@gmail.com
 - 🐧 Connect with me on LinkedIn https://www.linkedin.com/in/jonathan-munoz22/
 

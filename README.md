@@ -3,7 +3,7 @@
 -  I love problem-solving and the learning that comes with it.
 -  Top Skills: SQL, Snowflake, Data Build Tool, Excel, Python, Power B.I.
 -  Reach me at jmunozastir@gmail.com
--  [LinkedIn](https://www.linkedin.com/in/-jonathanmunoz/)
+-  Connect with me on [LinkedIn](https://www.linkedin.com/in/-jonathanmunoz/)
 
 <!---
 mujont/mujont is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

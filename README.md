@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @mujont. Full name Jonathan Munoz
-- 👀 I’m interested in data analytics and econometrics
-- 🌱 I’m currently learning python and polishing my sql knowledge
-- 💞️ I’m looking to collaborate on econometric or data analytics work
-- 📫 Reach me at jmunozastir@gmail.com
-- 🐧 Connect with me on LinkedIn https://www.linkedin.com/in/jonathan-munoz22/
+- 👋 Hi there! I'm a data professional working in the restaurant industry. 
+-  After years of practice I've become proficient with SQL in MSSQL and Snowflake.
+-  I love problem-solving and the learning that comes with it.
+-  Top Skills: SQL, Snowflake, Data Build Tool, Excel, Python, Power B.I.
+-  Reach me at jmunozastir@gmail.com
+-  [LinkedIn](https://www.linkedin.com/in/-jonathanmunoz/)
 
 <!---
 mujont/mujont is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
